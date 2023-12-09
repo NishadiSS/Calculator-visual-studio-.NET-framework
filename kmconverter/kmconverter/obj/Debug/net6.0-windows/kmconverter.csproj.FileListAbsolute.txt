@@ -1,0 +1,17 @@
+C:\Users\MY\Desktop\vs practicals\kmconverter\kmconverter\bin\Debug\net6.0-windows\kmconverter.exe
+C:\Users\MY\Desktop\vs practicals\kmconverter\kmconverter\bin\Debug\net6.0-windows\kmconverter.deps.json
+C:\Users\MY\Desktop\vs practicals\kmconverter\kmconverter\bin\Debug\net6.0-windows\kmconverter.runtimeconfig.json
+C:\Users\MY\Desktop\vs practicals\kmconverter\kmconverter\bin\Debug\net6.0-windows\kmconverter.dll
+C:\Users\MY\Desktop\vs practicals\kmconverter\kmconverter\bin\Debug\net6.0-windows\kmconverter.pdb
+C:\Users\MY\Desktop\vs practicals\kmconverter\kmconverter\obj\Debug\net6.0-windows\kmconverter.csproj.AssemblyReference.cache
+C:\Users\MY\Desktop\vs practicals\kmconverter\kmconverter\obj\Debug\net6.0-windows\kmconverter.Form1.resources
+C:\Users\MY\Desktop\vs practicals\kmconverter\kmconverter\obj\Debug\net6.0-windows\kmconverter.csproj.GenerateResource.cache
+C:\Users\MY\Desktop\vs practicals\kmconverter\kmconverter\obj\Debug\net6.0-windows\kmconverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY\Desktop\vs practicals\kmconverter\kmconverter\obj\Debug\net6.0-windows\kmconverter.AssemblyInfoInputs.cache
+C:\Users\MY\Desktop\vs practicals\kmconverter\kmconverter\obj\Debug\net6.0-windows\kmconverter.AssemblyInfo.cs
+C:\Users\MY\Desktop\vs practicals\kmconverter\kmconverter\obj\Debug\net6.0-windows\kmconverter.csproj.CoreCompileInputs.cache
+C:\Users\MY\Desktop\vs practicals\kmconverter\kmconverter\obj\Debug\net6.0-windows\kmconverter.dll
+C:\Users\MY\Desktop\vs practicals\kmconverter\kmconverter\obj\Debug\net6.0-windows\refint\kmconverter.dll
+C:\Users\MY\Desktop\vs practicals\kmconverter\kmconverter\obj\Debug\net6.0-windows\kmconverter.pdb
+C:\Users\MY\Desktop\vs practicals\kmconverter\kmconverter\obj\Debug\net6.0-windows\kmconverter.genruntimeconfig.cache
+C:\Users\MY\Desktop\vs practicals\kmconverter\kmconverter\obj\Debug\net6.0-windows\ref\kmconverter.dll
